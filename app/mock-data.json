@@ -1,0 +1,100 @@
+{
+  "tracks": [
+    {
+      "music_id": "track_001",
+      "title": "Electronic Dreams",
+      "contributions": [
+        {
+          "contributor_type": "Human",
+          "description": "Initial music concept and lyrics",
+          "prompts": 5,
+          "refinements": 8,
+          "time_spent_minutes": 120,
+          "contribution_weight": 40,
+          "wallet_address": "HUMAN_WALLET_PLACEHOLDER"
+        },
+        {
+          "contributor_type": "AI",
+          "description": "Melody and harmony generation",
+          "iterations": 50,
+          "complexity_score": "High",
+          "contribution_weight": 60,
+          "wallet_address": "AI_WALLET_PLACEHOLDER"
+        }
+      ],
+      "generation_date": "2023-12-01T12:00:00Z"
+    },
+    {
+      "music_id": "track_002",
+      "title": "Acoustic Serenity",
+      "contributions": [
+        {
+          "contributor_type": "Human",
+          "description": "Guitar composition and vocal arrangements",
+          "prompts": 12,
+          "refinements": 15,
+          "time_spent_minutes": 180,
+          "contribution_weight": 70,
+          "wallet_address": "HUMAN_WALLET_PLACEHOLDER"
+        },
+        {
+          "contributor_type": "AI",
+          "description": "Backing track optimization and mixing",
+          "iterations": 35,
+          "complexity_score": "Medium",
+          "contribution_weight": 30,
+          "wallet_address": "AI_WALLET_PLACEHOLDER"
+        }
+      ],
+      "generation_date": "2023-12-15T14:30:00Z"
+    },
+    {
+      "music_id": "track_003",
+      "title": "Jazz Fusion",
+      "contributions": [
+        {
+          "contributor_type": "Human",
+          "description": "Core jazz progression and saxophone solo",
+          "prompts": 8,
+          "refinements": 10,
+          "time_spent_minutes": 150,
+          "contribution_weight": 55,
+          "wallet_address": "HUMAN_WALLET_PLACEHOLDER"
+        },
+        {
+          "contributor_type": "AI",
+          "description": "Rhythm section and arrangement variations",
+          "iterations": 45,
+          "complexity_score": "Very High",
+          "contribution_weight": 45,
+          "wallet_address": "AI_WALLET_PLACEHOLDER"
+        }
+      ],
+      "generation_date": "2024-01-10T09:15:00Z"
+    },
+    {
+      "music_id": "track_004",
+      "title": "Ambient Spaces",
+      "contributions": [
+        {
+          "contributor_type": "Human",
+          "description": "Sound design and atmospheric concepts",
+          "prompts": 6,
+          "refinements": 12,
+          "time_spent_minutes": 90,
+          "contribution_weight": 35,
+          "wallet_address": "HUMAN_WALLET_PLACEHOLDER"
+        },
+        {
+          "contributor_type": "AI",
+          "description": "Texture layering and spatial sound generation",
+          "iterations": 60,
+          "complexity_score": "High",
+          "contribution_weight": 65,
+          "wallet_address": "AI_WALLET_PLACEHOLDER"
+        }
+      ],
+      "generation_date": "2024-02-05T16:45:00Z"
+    }
+  ]
+} 

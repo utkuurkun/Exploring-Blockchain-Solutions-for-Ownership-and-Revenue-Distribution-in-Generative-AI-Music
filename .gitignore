@@ -1,0 +1,21 @@
+.anchor
+.DS_Store
+target
+**/*.rs.bk
+node_modules
+test-ledger
+.yarn
+keypair.json
+
+# Environment variables
+.env
+.env.local
+
+# IPFS/Pinata keys
+pinata-keys.json
+
+# Build artifacts
+dist/
+
+# Test ledgers
+validator-ledger/

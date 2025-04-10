@@ -1,0 +1,30 @@
+{
+  "name": "royalty-distribution",
+  "version": "1.0.0",
+  "description": "Royalty distribution system for music creators using Solana blockchain",
+  "scripts": {
+    "build": "tsc -p .",
+    "client": "ts-node --transpile-only app/client.ts",
+    "lint": "eslint --ext .ts app",
+    "test": "anchor test",
+    "simple-client": "ts-node --transpile-only app/simple-client.ts",
+    "full-client": "./run-client.sh full"
+  },
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.30.0",
+    "@solana/spl-token": "^0.4.0",
+    "@solana/web3.js": "^1.91.0",
+    "axios": "^1.6.7",
+    "bn.js": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/bn.js": "^5.1.5",
+    "@types/node": "^20.11.25",
+    "chai": "^4.3.10",
+    "eslint": "^8.57.0",
+    "mocha": "^10.3.0",
+    "ts-mocha": "^11.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
